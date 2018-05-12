@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '26711'
     url: http://www.gutenberg.org/2009/agents/26711
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24745#The-Loss-of-the-Kent-East-Indiaman-in-the-Bay-of-BiscayNarrated-in-a-Letter-to-a-Friend
 gutenberg_issued: '2008-03-03'
 gutenberg_type: Text
 identifiers:
