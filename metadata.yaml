@@ -1,0 +1,28 @@
+_repo: The-Loss-of-the-Kent-East-Indiaman-in-the-Bay-of-BiscayNarrated-in-a-Letter-to-a-Friend_24745
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McGregor, Duncan
+    birthdate: 1787
+    deathdate: 1881
+    gutenberg_agent_id: '26711'
+    url: http://www.gutenberg.org/2009/agents/26711
+description: ''
+gutenberg_issued: '2008-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24745'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shipwrecks'
+- !lcc 'VK'
+title: 'The Loss of the Kent, East Indiaman, in the Bay of Biscay
+
+  Narrated in a Letter to a Friend'
+url: http://www.gutenberg.org/ebooks/24745
